@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+    box-sizing: border-box;
+    color: black;
+}
+
+body{
+    background: linear-gradient(to left top, #00ff4c, #19dfc5);
+}
+
+html, body{
+    height: 100%;
+}
+
+.container{
+    text-align: center;
+    margin-top: 20%;
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px black;
+    background: url(https://www.4oito.com.br/img/noticias/_35156.jpg);
+}
+
+
+
+
